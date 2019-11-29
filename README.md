@@ -6,6 +6,6 @@ Pushed from Unity 2019.2.9f1 version, works in any version higher than that and 
 
 - GamePlay
 
-![GamePlay](/Images/pinpong.png?raw=true "GamePlay")
+![GamePlay](/Images/pingpong.png?raw=true "GamePlay")
 
 You should check it out!!!
