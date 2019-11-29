@@ -2,7 +2,8 @@
 
 Ping Pong Game challenge project (1.5 hours)
 
-Pushed from Unity 2019.2.9f1 version, works in any version higher than that and may work in versions lower.
+> Pushed from Unity 2019.2.9f1 version, works in any version higher than that and may work in versions lower.
+
 
 ## GamePlay
 
@@ -11,12 +12,13 @@ Pushed from Unity 2019.2.9f1 version, works in any version higher than that and 
 
 ## Installation
 
-1) First way 
-- Clone repository somewhere inside your PC.
-- Open the cloned repository folder with Unity (version 2019.2.9f1+)
+* First way 
+  * Clone repository somewhere inside your PC.
+  * Open the cloned repository folder with Unity (version **2019.2.9f1+**)
 
-2) Second way
-- Create a new project in Unity (version 2019.2.9f1+)
-- Import the last added unitypackage from UnityPackages folder. 
+* Second way
+  * Create a new project in Unity (version **2019.2.9f1+**)
+  * Import the last added unitypackage from UnityPackages folder. 
 
-You should check it out!!!
+### You should check it out!!!
+
