@@ -1,24 +1,30 @@
 # Ping Pong
 
-Ping Pong Game challenge project (1.5 hours)
+Ping Pong game challenge project made in 1.5 hours
 
-> Pushed from Unity 2019.2.9f1 version, works in any version higher than that and may work in versions lower.
+## Demo
+
+[Demo version 0.1.0](https://madrigal.pro/demo/ping_pong/)
+
+## Prerequisites
+
+- **Unity 2019** - Unity is a cross-platform game engine.
 
 
 ## GamePlay
 
-![GamePlay](/Images/pingpong.png?raw=true "GamePlay")
+![GamePlay](https://i.imgur.com/cIIEIz3.png "GamePlay")
 
 
 ## Installation
 
-* First way 
-  * Clone repository somewhere inside your PC.
-  * Open the cloned repository folder with Unity (version **2019.2.9f1+**)
+- First way 
+  - Clone the repo
+  - Open the project folder using Unity
 
-* Second way
-  * Create a new project in Unity (version **2019.2.9f1+**)
-  * Import the last added unitypackage from UnityPackages folder. 
+- Second way (recommended)
+  - Create a new project
+  - Download and import latest version of unitypackage
 
 ### You should check it out!!!
 
