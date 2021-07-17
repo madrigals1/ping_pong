@@ -13,7 +13,7 @@ Ping Pong game challenge project made in 1.5 hours
 
 ## GamePlay
 
-![GamePlay](https://i.imgur.com/cIIEIz3.png "GamePlay")
+![GamePlay](https://i.imgur.com/Cyfjz1r.png "GamePlay")
 
 
 ## Installation
